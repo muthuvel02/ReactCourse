@@ -1,0 +1,26 @@
+.header
+{
+  display:flex;
+  justify-content: space-between;
+  padding-right: 40px;
+  border:solid 1px black;
+}
+
+
+.nav_bar>ul
+{
+  display:flex;
+  list-style-type: none;
+  
+}
+.nav_bar>ul>li
+{
+  padding: 20px;
+  font-size: 24px;
+  
+}
+.logo
+{
+  height: 100px;
+  width: 100%;
+}
